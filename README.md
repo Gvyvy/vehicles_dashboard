@@ -27,3 +27,11 @@ pip install -r requirements.txt
 3. Ejecutar la aplicación:
 
 streamlit run app.py
+
+## 🚀 Live Application
+
+Este proyecto es desplegado utiliando Render.
+
+Se puede accesar en el siguiente URL:
+
+👉 https://vehicles-dashboard-zb9r.onrender.com/
