@@ -35,3 +35,5 @@ Este proyecto es desplegado utiliando Render.
 Se puede accesar en el siguiente URL:
 
 👉 https://vehicles-dashboard-zb9r.onrender.com/
+
+*** Dar click en los botones para mostrar las graficas
