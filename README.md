@@ -71,7 +71,17 @@ Users can interact with the dashboard controls to display and explore the visual
 
 ## Key Findings
 
-*This section will be completed after validating the main findings from the exploratory analysis.*
+The exploratory analysis was performed on a dataset containing **51,525 vehicle listings**.
+
+Key findings from the analysis included:
+
+- The vehicle price distribution showed a **wide range of values**, including some notable outliers.
+- The median listed vehicle price was approximately **$9,000**, while the average was approximately **$12,132**, reflecting the influence of higher-priced listings.
+- Vehicle mileage also showed a wide distribution, with a median odometer reading of approximately **113,000 miles**.
+- The analysis of **model year versus price** showed a general trend in which newer vehicles tended to have higher listed prices.
+- The dataset contained missing values that were addressed during data preparation to ensure the information could be analyzed and visualized consistently.
+
+These findings were then translated into interactive visualizations to make the patterns easier to explore through the Streamlit dashboard.
 
 ---
 
